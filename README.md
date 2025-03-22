@@ -1,6 +1,6 @@
-<p align="center"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_list_table.PNG" width="400" alt="weely sales list"></a></p>
-<p align="center"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_quantity_table.PNG" width="400" alt="weely sales list"></a></p>
-<p align="center"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_profit_barchart.PNG" width="400" alt="weely sales list"></a></p>
+<p align="left"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_list_table.PNG" width="400" alt="weely sales list"></a></p>
+<p align="left"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_quantity_table.PNG" width="400" alt="weely sales list"></a></p>
+<p align="left"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_profit_barchart.PNG" width="400" alt="weely sales list"></a></p>
 
 # Stockmanagement-system
 ## Overview
