@@ -1,7 +1,7 @@
 # Stockmanagement-system
-<p align="left"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_list_table.PNG" width="400" alt="weely sales list"></a></p>
-<p align="left"><a href="https://abajifartech.com/weekly_sales_quantity_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_quantity_table.PNG" width="400" alt="weely sales list"></a></p>
-<p align="left"><a href="https://abajifartech.com/weekly_sales_profit_barchart.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_profit_barchart.PNG" width="400" alt="weely sales list"></a></p>
+<p align="left"><a href="https://abajifartech.com/weekly_sales_list_table.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_list_table.PNG" width="400" alt="weekly sales list"></a></p>
+<p align="left"><a href="https://abajifartech.com/weekly_sales_profit_barchart.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_profit_barchart.PNG" width="400" alt="weekly sales list"></a></p>
+<p align="left"><a href="https://abajifartech.com/weekly_sales_loss_piechart.PNG" target="_blank"><img src="https://abajifartech.com/weekly_sales_loss_piechart.PNG" width="400" alt="weekly sales list"></a></p>
 ## Overview
 The Stock Management System is a comprehensive solution designed to streamline inventory management for businesses. It enables efficient tracking of stock levels, transactions, and reports while supporting seamless operations between warehouses and shops. The system provides role-based access for different users, ensuring security and efficiency in stock handling and financial management.
 
