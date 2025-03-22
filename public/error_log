@@ -1,0 +1,66 @@
+[15-Nov-2024 17:54:46 Africa/Addis_Ababa] PHP Fatal error:  Cannot declare class App\Http\Controllers\Auth\ForgotPasswordController, because the name is already in use in /home/abajifhx/stock.abajifartech.com/app/Http/Controllers/ForgotPasswordController.php on line 14
+[16-Nov-2024 12:35:25 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:01:31 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:01:58 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:01:59 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:01:59 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:01:59 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:01:59 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:02:55 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:03:11 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:03:37 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:03:37 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:03:38 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:03:38 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:03:38 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:13 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:14 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:14 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:14 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:14 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:24 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:04:39 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:05:12 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:05:41 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:05:41 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:06:26 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[16-Nov-2024 13:09:14 UTC] PHP Warning:  Undefined variable $aA in /home/abajifhx/stock.abajifartech.com/config/mail.php on line 43
+[24-Nov-2024 12:19:25 Africa/Addis_Ababa] PHP Fatal error:  Cannot use [] for reading in /home/abajifhx/stock.abajifartech.com/storage/framework/views/c98c4c041550f584808f96b22ba37cfc.php on line 78
+[24-Nov-2024 09:54:49 UTC] PHP Warning:  Undefined variable $mysqli in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:54:52 UTC] PHP Warning:  Undefined variable $mysqli in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:54:52 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:54:55 UTC] PHP Warning:  Undefined variable $mysqli in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:54:55 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:56:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abajifhx_stock'@'localhost' to database 'abajifhx_stockuser' in /home/abajifhx/stock.abajifartech.com/public/connection.php:2
+Stack trace:
+#0 /home/abajifhx/stock.abajifartech.com/public/connection.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 2
+[24-Nov-2024 09:58:31 UTC] PHP Warning:  Undefined variable $mysqli in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 09:58:31 UTC] PHP Warning:  Attempt to read property "connect_errno" on null in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 3
+[24-Nov-2024 10:00:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abajifhx_stockuser'@'localhost' (using password: YES) in /home/abajifhx/stock.abajifartech.com/public/connection.php:2
+Stack trace:
+#0 /home/abajifhx/stock.abajifartech.com/public/connection.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 2
+[24-Nov-2024 10:01:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abajifhx_stockuser'@'localhost' (using password: YES) in /home/abajifhx/stock.abajifartech.com/public/connection.php:2
+Stack trace:
+#0 /home/abajifhx/stock.abajifartech.com/public/connection.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 2
+[24-Nov-2024 10:01:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abajifhx_stockuser'@'localhost' (using password: YES) in /home/abajifhx/stock.abajifartech.com/public/connection.php:2
+Stack trace:
+#0 /home/abajifhx/stock.abajifartech.com/public/connection.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 2
+[24-Nov-2024 10:01:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abajifhx_stockuser'@'localhost' (using password: YES) in /home/abajifhx/stock.abajifartech.com/public/connection.php:2
+Stack trace:
+#0 /home/abajifhx/stock.abajifartech.com/public/connection.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 2
+[24-Nov-2024 10:01:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'abajifhx_stockuser'@'localhost' (using password: YES) in /home/abajifhx/stock.abajifartech.com/public/connection.php:2
+Stack trace:
+#0 /home/abajifhx/stock.abajifartech.com/public/connection.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/abajifhx/stock.abajifartech.com/public/connection.php on line 2
