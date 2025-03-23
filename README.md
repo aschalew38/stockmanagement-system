@@ -35,20 +35,24 @@ Admin: Full control over the system, including user management and financial rep
 Store Keeper: Manages stock-related operations like adding, updating, and transferring stock.
 Sales: Handles sales transactions and basic stock viewing.
 
-5. ### Financial Management:
+5. ### Certification & Progress Tracking
+Prepare Certifications: Upon successful course completion, students receive certificates of achievement.
+Track Student Progress: Admins can monitor student performance and course completion status.
 
-Record credit and debit transactions.
-Notify users when payment due dates are reached.
-Customer & Supplier Management:
-Maintain detailed customer contact information.
-Store and manage supplier details for procurement tracking.
+6. ### Roles & Responsibilities
+1. Student Role
+✔ Register & log in
+✔ Enroll in courses
+✔ Access learning materials
+✔ Take exams
+✔ Receive certifications
 
-6. ### Additional Functionalities:
-
-Secure authentication and user access control.
-Generate invoices and receipts for transactions.
-Export reports to various formats (PDF, Excel, CSV).
-Email and SMS notifications for stock alerts and payment reminders.
+2. Admin Role
+✔ Manage students & courses
+✔ Upload and organize course content
+✔ Create exams & assessments
+✔ Issue certifications
+✔ Track student progress
 
 ## Website link
 https://stock.abajifartech.com/
